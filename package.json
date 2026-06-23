@@ -10,6 +10,7 @@
     "json": "json-server --watch db.json --port 4000"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.101.0",
     "next": "16.0.1",
     "react": "19.2.0",
     "react-dom": "19.2.0"
